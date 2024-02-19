@@ -20,6 +20,10 @@ Welcome to the Next.js Prisma CRUD Bookstore App! This project is a full-stack w
 
 <img src="https://github.com/Basab-Saha/crud-next/assets/134124512/b80b0d2b-ab34-4907-bbdd-6d3ac342a083" alt="screenshot" width="400">
 <img src="https://github.com/Basab-Saha/crud-next/assets/134124512/8ceb3a8c-e866-451c-8d70-8db6960729c6" alt="screenshot" width="400 height="200">
+![image](https://github.com/Basab-Saha/crud-next/assets/134124512/d382d0d5-0692-46de-b31d-30b2ac523191)
+![image](https://github.com/Basab-Saha/crud-next/assets/134124512/d6dea1cc-7d06-41df-9ed9-475573a6084b)
+
+
 
 
 
