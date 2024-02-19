@@ -15,8 +15,6 @@ Welcome to the Next.js Prisma CRUD Bookstore App! This project is a full-stack w
 - Prisma: A modern database toolkit for Node.js and TypeScript.
 - Tailwind CSS: A utility-first CSS framework for quickly building custom designs.
 
+## Screenshot
 
-![image](https://github.com/Basab-Saha/crud-next/assets/134124512/b80b0d2b-ab34-4907-bbdd-6d3ac342a083)
-
-
-
+<img src="https://github.com/Basab-Saha/crud-next/assets/134124512/b80b0d2b-ab34-4907-bbdd-6d3ac342a083" alt="screenshot" width="400">
